@@ -1,2 +1,2 @@
 # HAN_Bigdata
-Place where you can ask question and find an Answer
+Place where you can ask questions and find an Answers for the courses
